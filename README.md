@@ -13,3 +13,7 @@ you need to save a copy of it to your own Google Drive.
 ### April 25
 - [High-dimensional](https://colab.research.google.com/github/cs396s24/lectures/blob/main/high_dim.ipynb)
 - [Matching & Propensity](https://colab.research.google.com/github/cs396s24/lectures/blob/main/matching_propensity.ipynb)
+
+### May 7-9
+
+- [Causal Discovery](https://colab.research.google.com/github/cs396s24/lectures/blob/main/CausalDiscovery.ipynb)
