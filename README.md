@@ -17,3 +17,7 @@ you need to save a copy of it to your own Google Drive.
 ### May 7-9
 
 - [Causal Discovery](https://colab.research.google.com/github/cs396s24/lectures/blob/main/CausalDiscovery.ipynb)
+
+### May 23
+
+- [Missing Data](https://colab.research.google.com/github/cs396s24/lectures/blob/main/missing_data.ipynb)
